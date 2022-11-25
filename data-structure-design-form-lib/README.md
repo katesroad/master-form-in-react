@@ -14,3 +14,5 @@
     - text
     - number
 - Codebase: [src/Registration.jsx](./src/Registration.jsx)
+- Questions:
+  - It seems like the dirty field is unnecessary 
